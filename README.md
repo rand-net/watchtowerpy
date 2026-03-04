@@ -1,14 +1,9 @@
 # Watchtowerpy
+A Flask-based web application for monitoring website changes and getting AI summaries.
 
-A Flask-based web application for monitoring website changes and detecting visual/text differences. Uses Playwright, Selenium, and Pyppeteer for browser automation, with Celery for background task processing.
+![Screenshot of watchtowerpy - home page](./screenshots/img01.jpg)
+![Screenshot of watchtowerpy - Link Summary page](./screenshots/img05.jpg)
 
-## Features
-
-- Website monitoring and change detection
-- Visual and text diff comparison
-- AI-powered diff analysis (Anthropic, Cerebras)
-- Background task processing with Celery
-- SQLite database for persistence
 
 ## Quick Start
 
